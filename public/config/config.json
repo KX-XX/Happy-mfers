@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x081aA3b5f1F8a17eA1cC772e31954E5db9DA6F8E",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x081aa3b5f1f8a17ea1cc772e31954e5db9da6f8e",
+  "NETWORK": {
+    "NAME": "RINKEBY",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Happy mfers",
+  "SYMBOL": "HMF",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "FIRST MINT IS FREE"
+  "DISPLAY_COST": "0.05 per one NFT afterwards",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/happymfers",
+  "SHOW_BACKGROUND": true
+}
